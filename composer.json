@@ -1,0 +1,24 @@
+{
+    "name": "osynapsy.net/mailer",
+    "version": "0.5",
+    "homepage": "http://www.osynapsy.org/",
+    "type": "library",
+    "description": "Library for send email easily",
+    "keywords": ["Library","AI"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pietro Celeste",
+            "email": "p.celeste@osynapsy.net",
+            "homepage": "https://github.com/osynapsy/mailer/wiki"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"        
+    },
+    "autoload" : {
+        "psr-4": {
+            "Osynapsy\\Mailer\\": "src/"
+        }
+    }
+}
