@@ -3,7 +3,7 @@
     "version": "0.5",
     "homepage": "http://www.osynapsy.org/",
     "type": "library",
-    "description": "Library for send email easily",
+    "description": "Less code, more control. A clean, backend-driven mailer for PHP — modular, debuggable, and ready for your own delivery clients.",
     "keywords": ["Library","AI"],
     "license": "MIT",
     "authors": [
