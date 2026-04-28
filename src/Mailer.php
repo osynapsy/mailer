@@ -40,7 +40,7 @@ class Mailer
     {
         foreach ($this->queue as $msg) {
             try {
-                $this->cn->sendMessage($msg);
+                $this->client->sendMessage($msg);
             } catch (\Exception $e) {
                 $this->errors[] = $e->getMessage();
             }
