@@ -1,6 +1,6 @@
 {
     "name": "osynapsy/mailer",
-    "version": "0.5",
+    "version": "0.5.1",
     "homepage": "http://www.osynapsy.org/",
     "type": "library",
     "description": "Less code, more control. A clean, backend-driven mailer for PHP — modular, debuggable, and ready for your own delivery clients.",
